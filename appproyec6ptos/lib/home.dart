@@ -1,4 +1,3 @@
-import 'dart:js';
 import 'listat.dart';
 
 import 'package:flutter/material.dart';

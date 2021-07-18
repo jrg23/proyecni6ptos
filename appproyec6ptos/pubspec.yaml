@@ -55,6 +55,9 @@ flutter:
      - imagenes/red-card.png
      - imagenes/salve-.png
      - imagenes/share.png
+     - imagenes/free.jpg
+     - imagenes/redeyes.jpg
+     - imagenes/heroe.jpg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 

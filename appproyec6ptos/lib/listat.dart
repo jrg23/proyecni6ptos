@@ -1,6 +1,6 @@
-import 'dart:js';
 import 'package:flutter/material.dart';
 import 'home.dart';
+import 'libertad.dart';
 
 class listaproye extends StatefulWidget {
   const listaproye({Key? key}) : super(key: key);
@@ -25,7 +25,7 @@ class _listaproyeState extends State<listaproye> {
             onPressed: () {
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => terlist()),
+                MaterialPageRoute(builder: (context) => paginalibre()),
               );
             },
             child: Text('nuevos decks'),
